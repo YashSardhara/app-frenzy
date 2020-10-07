@@ -1,1 +1,1 @@
-# app-frenzy
+# App-Frenzy
